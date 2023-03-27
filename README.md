@@ -1,5 +1,5 @@
 # Multi-view-Person-Re-identification
-##Requirements to run the program
+#Requirements to run the program
 1. All the models are trained and testing Kaggle with GPU enabled.
 2. Install Python
 3. Install Anaconda
